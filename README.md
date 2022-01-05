@@ -8,9 +8,7 @@ For illustrating purpose, it only uses data from four days coveraging parts of G
 
 
 
-#environment: python 3.6 
-#numpy 1.21.4
-#pyhdf 0.10.3
+#environment: python 3.6; numpy 1.21.4; pyhdf 0.10.3
 
 #HDF References:
 #https://moonbooks.org/Articles/How-to-read-a-MODIS-HDF-file-using-python-/
